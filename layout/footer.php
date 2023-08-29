@@ -18,6 +18,5 @@
         <div class="social"><a  target="_blank" aria-label="Chat on WhatsApp" href="https://wa.me/79510390222"><img alt="Chat on WhatsApp" src="/assets/iconmonstr-whatsapp-1.svg" /></a></div>
         <div class="social"><a  target="_blank" aria-label="Chat on WhatsApp" href="https://viber.click/79510390222"><img alt="Chat on WhatsApp" src="/assets/iconmonstr-viber-1.svg" /></a></div>
         <div class="social"><a  target="_blank" aria-label="Chat on WhatsApp" href="https://tlgg.ru/oknaRehau56"><img alt="Chat on WhatsApp" src="/assets/iconmonstr-telegram-1.svg" /></a></div>
-         
     </div>
 </div>
